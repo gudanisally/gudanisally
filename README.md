@@ -2,7 +2,7 @@
 - 👀 I’m interested in data ICT
 - 🌱 I’m currently learning Data analytics
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me mbedzigudani@gmail.com
+- 📫 How to reach me mbedzigudani141@gmail.com
 
 <!---
 gudanisally/gudanisally is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
